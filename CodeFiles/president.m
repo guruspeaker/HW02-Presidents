@@ -1,15 +1,13 @@
 //
-//  ViewController.h
+//  presidents.m
 //  HW02-Presidents
 //
 //  Created by PAUL CHRISTIAN on 11/19/17.
 //  Copyright © 2017 PAUL CHRISTIAN. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import "president.h"
 
-@interface ViewController : UIViewController
-
+@implementation president
 
 @end
-

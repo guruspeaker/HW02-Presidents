@@ -1,0 +1,861 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>01</key>
+	<dict>
+		<key>Name</key>
+		<string>George Washington</string>
+		<key>lived</key>
+		<string>(1732-1799)</string>
+		<key>birthplace</key>
+		<string>Westmoreland County, Virginia</string>
+		<key>deathplace</key>
+		<string>Mount Vernon, Virginia</string>
+		<key>served</key>
+		<string>1789-1797</string>
+		<key>terms</key>
+		<string>Served two full terms</string>
+		<key>party</key>
+		<string>None, Federalist</string>
+		<key>occupation</key>
+		<string>Land surveyor, farmer/plantation owner, soldier (Commander-in-Chief of the Continental Army)</string>
+	</dict>
+	<key>02</key>
+	<dict>
+		<key>Name</key>
+		<string>John Adams</string>
+		<key>lived</key>
+		<string>(1735-1826)</string>
+		<key>birthplace</key>
+		<string>Braintree, Massachusetts</string>
+		<key>deathplace</key>
+		<string>Quincy, Massachusetts</string>
+		<key>served</key>
+		<string>1797-1801</string>
+		<key>terms</key>
+		<string>Served one full term and lost reelection</string>
+		<key>party</key>
+		<string>Federalist</string>
+		<key>occupation</key>
+		<string>Lawyer, farmer</string>
+	</dict>
+	<key>03</key>
+	<dict>
+		<key>Name</key>
+		<string>Thomas Jefferson</string>
+		<key>lived</key>
+		<string>(1743-1826)</string>
+		<key>birthplace</key>
+		<string>Shadwell, Virginia</string>
+		<key>deathplace</key>
+		<string>Charlottesville, Virginia</string>
+		<key>served</key>
+		<string>1801-1809</string>
+		<key>terms</key>
+		<string>Served two full terms</string>
+		<key>party</key>
+		<string>Democratic-Republican</string>
+		<key>occupation</key>
+		<string>Land surveyor, writer, inventor, lawyer, architect, farmer/plantation owner, diplomat, linguist, theologian</string>
+	</dict>
+	<key>04</key>
+	<dict>
+		<key>Name</key>
+		<string>James Madison</string>
+		<key>lived</key>
+		<string>(1751-1836)</string>
+		<key>birthplace</key>
+		<string>Port Conway, Virginia</string>
+		<key>deathplace</key>
+		<string>Orange, Virginia</string>
+		<key>served</key>
+		<string>1809-1817</string>
+		<key>terms</key>
+		<string>Served two full terms</string>
+		<key>party</key>
+		<string>Democratic-Republican</string>
+		<key>occupation</key>
+		<string>Farmer/plantation owner</string>
+	</dict>
+	<key>05</key>
+	<dict>
+		<key>Name</key>
+		<string>James Monroe</string>
+		<key>lived</key>
+		<string>(1758-1831)</string>
+		<key>birthplace</key>
+		<string>Monroe Hall, Virginia</string>
+		<key>deathplace</key>
+		<string>New York City</string>
+		<key>served</key>
+		<string>1817-1825</string>
+		<key>terms</key>
+		<string>Served two full terms</string>
+		<key>party</key>
+		<string>Democratic-Republican</string>
+		<key>occupation</key>
+		<string>Farmer/plantation owner, lawyer</string>
+	</dict>
+	<key>06</key>
+	<dict>
+		<key>Name</key>
+		<string>John Quincy Adams</string>
+		<key>lived</key>
+		<string>(1767-1848)</string>
+		<key>birthplace</key>
+		<string>Braintree, Massachusetts</string>
+		<key>deathplace</key>
+		<string>Washington, D.C.</string>
+		<key>served</key>
+		<string>1825-1829</string>
+		<key>terms</key>
+		<string>Served one full term and lost reelection</string>
+		<key>party</key>
+		<string>Democratic-Republican</string>
+		<key>occupation</key>
+		<string>Lawyer</string>
+	</dict>
+	<key>07</key>
+	<dict>
+		<key>Name</key>
+		<string>Andrew Jackson</string>
+		<key>lived</key>
+		<string>(1767-1845)</string>
+		<key>birthplace</key>
+		<string>Waxhaws Region, South/North Carolina</string>
+		<key>deathplace</key>
+		<string>Nashville, Tennessee</string>
+		<key>served</key>
+		<string>1829-1837</string>
+		<key>terms</key>
+		<string>Served two full terms</string>
+		<key>party</key>
+		<string>Democrat</string>
+		<key>occupation</key>
+		<string>Soldier (Major General), lawyer</string>
+	</dict>
+	<key>08</key>
+	<dict>
+		<key>Name</key>
+		<string>Martin van Buren</string>
+		<key>lived</key>
+		<string>(1782-1862)</string>
+		<key>birthplace</key>
+		<string>Kinderhook, New York</string>
+		<key>deathplace</key>
+		<string>Kinderhook, New York</string>
+		<key>served</key>
+		<string>1837-1841</string>
+		<key>terms</key>
+		<string>Served one full term and lost reelection in 1840</string>
+		<key>party</key>
+		<string>Democrat</string>
+		<key>occupation</key>
+		<string>Lawyer</string>
+	</dict>
+	<key>09</key>
+	<dict>
+		<key>Name</key>
+		<string>William Henry Harrison</string>
+		<key>lived</key>
+		<string>(1773-1841)</string>
+		<key>birthplace</key>
+		<string>Charles City County, Virginia</string>
+		<key>deathplace</key>
+		<string>Washington, D.C.</string>
+		<key>served</key>
+		<string>1841</string>
+		<key>terms</key>
+		<string>Died of pneumonia 31 days into his term</string>
+		<key>party</key>
+		<string>Whig</string>
+		<key>occupation</key>
+		<string>Soldier</string>
+	</dict>
+	<key>10</key>
+	<dict>
+		<key>Name</key>
+		<string>John Tyler</string>
+		<key>lived</key>
+		<string>(1790-1862)</string>
+		<key>birthplace</key>
+		<string>Charles City County, Virginia</string>
+		<key>deathplace</key>
+		<string>Richmond, Virginia</string>
+		<key>served</key>
+		<string>1841-1845</string>
+		<key>terms</key>
+		<string>Served the remaining 3 years and 11 months of William H. Harrison&apos;s term then lost nomination for a full term.</string>
+		<key>party</key>
+		<string>Whig</string>
+		<key>occupation</key>
+		<string>Lawyer</string>
+	</dict>
+	<key>11</key>
+	<dict>
+		<key>Name</key>
+		<string>James K. Polk</string>
+		<key>lived</key>
+		<string>(1795-1849)</string>
+		<key>birthplace</key>
+		<string>Pineville, North Carolina</string>
+		<key>deathplace</key>
+		<string>Nashville, Tennessee</string>
+		<key>served</key>
+		<string>1845-1849</string>
+		<key>terms</key>
+		<string>Served one full term and did not seek a second term</string>
+		<key>party</key>
+		<string>Democrat</string>
+		<key>occupation</key>
+		<string>Lawyer, plantation owner</string>
+	</dict>
+	<key>12</key>
+	<dict>
+		<key>Name</key>
+		<string>Zachary Taylor</string>
+		<key>lived</key>
+		<string>(1784-1850)</string>
+		<key>birthplace</key>
+		<string>Barboursville, Virginia</string>
+		<key>deathplace</key>
+		<string>Washington, D.C.</string>
+		<key>served</key>
+		<string>1849-1850</string>
+		<key>terms</key>
+		<string>Died 1 year, 4 months, and 5 days into his term</string>
+		<key>party</key>
+		<string>Whig</string>
+		<key>occupation</key>
+		<string>Soldier (Army Major General)</string>
+	</dict>
+	<key>13</key>
+	<dict>
+		<key>Name</key>
+		<string>Millard Fillmore</string>
+		<key>lived</key>
+		<string>(1800-1874)</string>
+		<key>birthplace</key>
+		<string>Summerhill, New York</string>
+		<key>deathplace</key>
+		<string>Buffalo, New York</string>
+		<key>served</key>
+		<string>1850-1853</string>
+		<key>terms</key>
+		<string>Served the remaining 2 years, 7 months, and 23 days of Taylor&apos;s term then lost the nomination for a full term in 1852. He later lost the election in 1856</string>
+		<key>party</key>
+		<string>Whig</string>
+		<key>occupation</key>
+		<string>Lawyer</string>
+	</dict>
+	<key>14</key>
+	<dict>
+		<key>Name</key>
+		<string>Franklin Pierce</string>
+		<key>lived</key>
+		<string>(1804-1869)</string>
+		<key>birthplace</key>
+		<string>Hillsborough, New Hampshire</string>
+		<key>deathplace</key>
+		<string>Concord, New Hampshire</string>
+		<key>served</key>
+		<string>1853-1857</string>
+		<key>terms</key>
+		<string>Served one full term then lost renomination</string>
+		<key>party</key>
+		<string>Democrat</string>
+		<key>occupation</key>
+		<string>Lawyer</string>
+	</dict>
+	<key>15</key>
+	<dict>
+		<key>Name</key>
+		<string>James Buchanan</string>
+		<key>lived</key>
+		<string>(1791-1868)</string>
+		<key>birthplace</key>
+		<string>Cove Gap, Pennsylvania</string>
+		<key>deathplace</key>
+		<string>Lancaster, Pennsylvania</string>
+		<key>served</key>
+		<string>1857-1861</string>
+		<key>terms</key>
+		<string>Served one full term and did not seek a second term</string>
+		<key>party</key>
+		<string>Democrat</string>
+		<key>occupation</key>
+		<string>Lawyer, diplomat</string>
+	</dict>
+	<key>16</key>
+	<dict>
+		<key>Name</key>
+		<string>Abraham Lincoln</string>
+		<key>lived</key>
+		<string>(1809-1865)</string>
+		<key>birthplace</key>
+		<string>Sinking Spring, Kentucky</string>
+		<key>deathplace</key>
+		<string>Washington, D.C.</string>
+		<key>served</key>
+		<string>1861-1865</string>
+		<key>terms</key>
+		<string>Served one full term then was assassinated 1 month and 10 days into his second term, dying 1 day later: 1 month and 11 days into that term</string>
+		<key>party</key>
+		<string>Republican</string>
+		<key>occupation</key>
+		<string>Land surveyor, lawyer</string>
+	</dict>
+	<key>17</key>
+	<dict>
+		<key>Name</key>
+		<string>Andrew Johnson</string>
+		<key>lived</key>
+		<string>(1808-1875)</string>
+		<key>birthplace</key>
+		<string>Raleigh, North Carolina</string>
+		<key>deathplace</key>
+		<string>Carter&apos;s Station, Tennessee</string>
+		<key>served</key>
+		<string>1865-1869</string>
+		<key>terms</key>
+		<string>Served the remaining 3 years, 10 months, and 17 days of Lincoln&apos;s second term then lost nomination for a full term</string>
+		<key>party</key>
+		<string>National Union</string>
+		<key>occupation</key>
+		<string>Soldier, tailor</string>
+	</dict>
+	<key>18</key>
+	<dict>
+		<key>Name</key>
+		<string>Ulysses S. Grant</string>
+		<key>lived</key>
+		<string>(1822-1885)</string>
+		<key>birthplace</key>
+		<string>Point Pleasant, Ohio</string>
+		<key>deathplace</key>
+		<string>Wilton, New York</string>
+		<key>served</key>
+		<string>1869-1877</string>
+		<key>terms</key>
+		<string>Served two full terms. In 1880, he sought but did not win renomination</string>
+		<key>party</key>
+		<string>Republican</string>
+		<key>occupation</key>
+		<string>Soldier, General of the Army</string>
+	</dict>
+	<key>19</key>
+	<dict>
+		<key>Name</key>
+		<string>Rutherford B. Hayes</string>
+		<key>lived</key>
+		<string>(1822-1893)</string>
+		<key>birthplace</key>
+		<string>Delaware, Ohio</string>
+		<key>deathplace</key>
+		<string>Fremont, Ohio</string>
+		<key>served</key>
+		<string>1877-1881</string>
+		<key>terms</key>
+		<string>Served one full term and did not seek a second term</string>
+		<key>party</key>
+		<string>Republican</string>
+		<key>occupation</key>
+		<string>Lawyer</string>
+	</dict>
+	<key>20</key>
+	<dict>
+		<key>Name</key>
+		<string>James A. Garfield</string>
+		<key>lived</key>
+		<string>(1831-1881)</string>
+		<key>birthplace</key>
+		<string>Moreland Hills, Ohio</string>
+		<key>deathplace</key>
+		<string>Elberon, New Jersey</string>
+		<key>served</key>
+		<string>1881</string>
+		<key>terms</key>
+		<string>Was assassinated 3 months and 28 days after taking office, dying 79 days later: 6 months and 15 days into his term</string>
+		<key>party</key>
+		<string>Republican</string>
+		<key>occupation</key>
+		<string>School teacher, minister, soldier</string>
+	</dict>
+	<key>21</key>
+	<dict>
+		<key>Name</key>
+		<string>Chester A. Arthur</string>
+		<key>lived</key>
+		<string>(1829-1886)</string>
+		<key>birthplace</key>
+		<string>Fairfield, Vermont</string>
+		<key>deathplace</key>
+		<string>New York City</string>
+		<key>served</key>
+		<string>1881-1885</string>
+		<key>terms</key>
+		<string>Served the remaining 3 years, 5 months, and 13 days of Garfield&apos;s term then lost nomination for a full term</string>
+		<key>party</key>
+		<string>Republican</string>
+		<key>occupation</key>
+		<string>School teacher, lawyer, collector of tariffs</string>
+	</dict>
+	<key>22</key>
+	<dict>
+		<key>Name</key>
+		<string>Grover Cleveland</string>
+		<key>lived</key>
+		<string>(1837-1908)</string>
+		<key>birthplace</key>
+		<string>Caldwell, New Jersey</string>
+		<key>deathplace</key>
+		<string>Princeton, New Jersey</string>
+		<key>served</key>
+		<string>1885-1889</string>
+		<key>terms</key>
+		<string>Served two full terms; non-consecutively</string>
+		<key>party</key>
+		<string>Democrat</string>
+		<key>occupation</key>
+		<string>Sheriff, lawyer, assistant teacher</string>
+	</dict>
+	<key>23</key>
+	<dict>
+		<key>Name</key>
+		<string>Benjamin Harrison</string>
+		<key>lived</key>
+		<string>(1833-1901)</string>
+		<key>birthplace</key>
+		<string>North Bend, Ohio</string>
+		<key>deathplace</key>
+		<string>Indianapolis, Indiana</string>
+		<key>served</key>
+		<string>1889-1893</string>
+		<key>terms</key>
+		<string>Served one full term then lost reelection</string>
+		<key>party</key>
+		<string>Republican</string>
+		<key>occupation</key>
+		<string>Lawyer, journalist</string>
+	</dict>
+	<key>24</key>
+	<dict>
+		<key>Name</key>
+		<string>Grover Cleveland</string>
+		<key>lived</key>
+		<string>(1837-1908)</string>
+		<key>birthplace</key>
+		<string>Caldwell, New Jersey</string>
+		<key>deathplace</key>
+		<string>Princeton, New Jersey</string>
+		<key>served</key>
+		<string>1893-1897</string>
+		<key>terms</key>
+		<string>Served two full terms; non-consecutively</string>
+		<key>party</key>
+		<string>Democrat</string>
+		<key>occupation</key>
+		<string>Sheriff, lawyer, assistant teacher</string>
+	</dict>
+	<key>25</key>
+	<dict>
+		<key>Name</key>
+		<string>William McKinley</string>
+		<key>lived</key>
+		<string>(1843-1901)</string>
+		<key>birthplace</key>
+		<string>Niles, Ohio</string>
+		<key>deathplace</key>
+		<string>Buffalo, New York</string>
+		<key>served</key>
+		<string>1897-1901</string>
+		<key>terms</key>
+		<string>Served one full term then was assassinated 6 months and 2 days into his second term, dying 8 days later, 6 months and 10 days into that term</string>
+		<key>party</key>
+		<string>Republican</string>
+		<key>occupation</key>
+		<string>Lawyer, soldier</string>
+	</dict>
+	<key>26</key>
+	<dict>
+		<key>Name</key>
+		<string>Theodore Roosevelt</string>
+		<key>lived</key>
+		<string>(1858-1919)</string>
+		<key>birthplace</key>
+		<string>New York City, New York</string>
+		<key>deathplace</key>
+		<string>Oyster Bay, New York</string>
+		<key>served</key>
+		<string>1901-1909</string>
+		<key>terms</key>
+		<string>Served the remaining 3 years, 5 months, and 18 days of McKinley&apos;s second term then served a full term</string>
+		<key>party</key>
+		<string>Republican</string>
+		<key>occupation</key>
+		<string>Public official, rancher, soldier</string>
+	</dict>
+	<key>27</key>
+	<dict>
+		<key>Name</key>
+		<string>William Howard Taft</string>
+		<key>lived</key>
+		<string>(1857-1930)</string>
+		<key>birthplace</key>
+		<string>Cincinnati, Ohio</string>
+		<key>deathplace</key>
+		<string>Washington, D.C.</string>
+		<key>served</key>
+		<string>1909-1913</string>
+		<key>terms</key>
+		<string>Served one full term then lost reelection</string>
+		<key>party</key>
+		<string>Republican</string>
+		<key>occupation</key>
+		<string>Lawyer, judge, law reporter, dean of law school at the University of Cincinnati</string>
+	</dict>
+	<key>28</key>
+	<dict>
+		<key>Name</key>
+		<string>Woodrow Wilson</string>
+		<key>lived</key>
+		<string>(1856-1924)</string>
+		<key>birthplace</key>
+		<string>Staunton, Virginia</string>
+		<key>deathplace</key>
+		<string>Washington, D.C.</string>
+		<key>served</key>
+		<string>1913-1921</string>
+		<key>terms</key>
+		<string>Served two full terms</string>
+		<key>party</key>
+		<string>Democrat</string>
+		<key>occupation</key>
+		<string>Lawyer, professor, president of Princeton University</string>
+	</dict>
+	<key>29</key>
+	<dict>
+		<key>Name</key>
+		<string>Warren G. Harding</string>
+		<key>lived</key>
+		<string>(1865-1923)</string>
+		<key>birthplace</key>
+		<string>Blooming Grove, Ohio</string>
+		<key>deathplace</key>
+		<string>San Francisco, California</string>
+		<key>served</key>
+		<string>1921-1923</string>
+		<key>terms</key>
+		<string>Died 2 years, 4 months, and 29 days into his term</string>
+		<key>party</key>
+		<string>Republican</string>
+		<key>occupation</key>
+		<string>Journalist, newspaper publisher/editor</string>
+	</dict>
+	<key>30</key>
+	<dict>
+		<key>Name</key>
+		<string>Calvin Coolidge</string>
+		<key>lived</key>
+		<string>(1872-1933)</string>
+		<key>birthplace</key>
+		<string>Plymouth, Vermont</string>
+		<key>deathplace</key>
+		<string>Northampton, Massachusetts</string>
+		<key>served</key>
+		<string>1923-1929</string>
+		<key>terms</key>
+		<string>Served the remaining 1 year, 7 months, and 2 days of Harding&apos;s term then served a full term</string>
+		<key>party</key>
+		<string>Republican</string>
+		<key>occupation</key>
+		<string>Lawyer, public official, vice president of Northampton Savings Bank</string>
+	</dict>
+	<key>31</key>
+	<dict>
+		<key>Name</key>
+		<string>Herbert C. Hoover</string>
+		<key>lived</key>
+		<string>(1874-1964)</string>
+		<key>birthplace</key>
+		<string>West Branch, Iowa</string>
+		<key>deathplace</key>
+		<string>New York City</string>
+		<key>served</key>
+		<string>1929-1933</string>
+		<key>terms</key>
+		<string>Served one full term then lost reelection</string>
+		<key>party</key>
+		<string>Republican</string>
+		<key>occupation</key>
+		<string>Engineer, investor</string>
+	</dict>
+	<key>32</key>
+	<dict>
+		<key>Name</key>
+		<string>Franklin D. Roosevelt</string>
+		<key>lived</key>
+		<string>(1882-1945)</string>
+		<key>birthplace</key>
+		<string>Hyde Park, New York</string>
+		<key>deathplace</key>
+		<string>Warm Springs, Georgia</string>
+		<key>served</key>
+		<string>1933-1945</string>
+		<key>terms</key>
+		<string>Served three full terms and died 2 months and 23 days into his fourth term</string>
+		<key>party</key>
+		<string>Democrat</string>
+		<key>occupation</key>
+		<string>Lawyer</string>
+	</dict>
+	<key>33</key>
+	<dict>
+		<key>Name</key>
+		<string>Harry S. Truman</string>
+		<key>lived</key>
+		<string>(1884-1972)</string>
+		<key>birthplace</key>
+		<string>Lamar, Missouri</string>
+		<key>deathplace</key>
+		<string>Kansas City, Missouri</string>
+		<key>served</key>
+		<string>1945-1953</string>
+		<key>terms</key>
+		<string>Served the remaining 3 years, 9 months, and 8 days of Franklin D. Roosevelt&apos;s fourth term then served a full term.</string>
+		<key>party</key>
+		<string>Democrat</string>
+		<key>occupation</key>
+		<string>Farmer, soldier, haberdasher</string>
+	</dict>
+	<key>34</key>
+	<dict>
+		<key>Name</key>
+		<string>Dwight David Eisenhower</string>
+		<key>lived</key>
+		<string>(1890-1969)</string>
+		<key>birthplace</key>
+		<string>Denison, Texas</string>
+		<key>deathplace</key>
+		<string>Washington, D.C.</string>
+		<key>served</key>
+		<string>1953-1961</string>
+		<key>terms</key>
+		<string>Served two full terms</string>
+		<key>party</key>
+		<string>Republican</string>
+		<key>occupation</key>
+		<string>Soldier (General of the Army), president of Columbia University</string>
+	</dict>
+	<key>35</key>
+	<dict>
+		<key>Name</key>
+		<string>John Fitzgerald Kennedy</string>
+		<key>lived</key>
+		<string>(1917-1963)</string>
+		<key>birthplace</key>
+		<string>Brookline, Massachusetts</string>
+		<key>deathplace</key>
+		<string>Dallas, Texas</string>
+		<key>served</key>
+		<string>1961-1963</string>
+		<key>terms</key>
+		<string>Assassinated 2 years, 10 months, and 2 days into his term</string>
+		<key>party</key>
+		<string>Democrat</string>
+		<key>occupation</key>
+		<string>Writer, sailor (Navy Lieutenant)</string>
+	</dict>
+	<key>36</key>
+	<dict>
+		<key>Name</key>
+		<string>Lyndon Baines Johnson</string>
+		<key>lived</key>
+		<string>(1908-1973)</string>
+		<key>birthplace</key>
+		<string>Stonewall, Texas</string>
+		<key>deathplace</key>
+		<string>Johnson City, Texas</string>
+		<key>served</key>
+		<string>1963-1969</string>
+		<key>terms</key>
+		<string>Served the remaining 1 year, 1 month, and 29 days of Kennedy&apos;s term then served a full term</string>
+		<key>party</key>
+		<string>Democrat</string>
+		<key>occupation</key>
+		<string>Teacher, public official</string>
+	</dict>
+	<key>37</key>
+	<dict>
+		<key>Name</key>
+		<string>Richard Milhous Nixon</string>
+		<key>lived</key>
+		<string>(1913-1994)</string>
+		<key>birthplace</key>
+		<string>Yorba Linda, California</string>
+		<key>deathplace</key>
+		<string>New York City</string>
+		<key>served</key>
+		<string>1969-1974</string>
+		<key>terms</key>
+		<string>Served one full term then resigned 1 year, 6 months, and 20 days into his second term</string>
+		<key>party</key>
+		<string>Republican</string>
+		<key>occupation</key>
+		<string>Lawyer, sailor (Navy Lieutenant Commander)</string>
+	</dict>
+	<key>38</key>
+	<dict>
+		<key>Name</key>
+		<string>Gerald R. Ford</string>
+		<key>lived</key>
+		<string>(1913- 2006)</string>
+		<key>birthplace</key>
+		<string>Omaha, Nebraska</string>
+		<key>deathplace</key>
+		<string>Rancho Mirage, California</string>
+		<key>served</key>
+		<string>1974-1977</string>
+		<key>terms</key>
+		<string>Served the remaining 2 years, 5 months, and 11 days of Nixon&apos;s second term then lost election for a full term.</string>
+		<key>party</key>
+		<string>Republican</string>
+		<key>occupation</key>
+		<string>Football player, sailor (Navy Lieutenant Commander), lawyer</string>
+	</dict>
+	<key>39</key>
+	<dict>
+		<key>Name</key>
+		<string>James (Jimmy) Carter, Jr.</string>
+		<key>lived</key>
+		<string>(1924- )</string>
+		<key>birthplace</key>
+		<string>Plains, Georgia</string>
+		<key>deathplace</key>
+		<string></string>
+		<key>served</key>
+		<string>1977-1981</string>
+		<key>terms</key>
+		<string>Served one full term then lost reelection.</string>
+		<key>party</key>
+		<string>Democrat</string>
+		<key>occupation</key>
+		<string>Sailor (Navy Lieutenant),peanut farmer, writer</string>
+	</dict>
+	<key>40</key>
+	<dict>
+		<key>Name</key>
+		<string>Ronald Wilson Reagan</string>
+		<key>lived</key>
+		<string>(1911- 2004)</string>
+		<key>birthplace</key>
+		<string>Tampico, Illinois</string>
+		<key>deathplace</key>
+		<string>Los Angeles, California</string>
+		<key>served</key>
+		<string>1981-1989</string>
+		<key>terms</key>
+		<string>Served two full terms</string>
+		<key>party</key>
+		<string>Republican</string>
+		<key>occupation</key>
+		<string>Actor &amp; broadcaster, President of the Screen Actors Guild</string>
+	</dict>
+	<key>41</key>
+	<dict>
+		<key>Name</key>
+		<string>George H. W. Bush</string>
+		<key>lived</key>
+		<string>(1924- )</string>
+		<key>birthplace</key>
+		<string>Milton, Massachusetts</string>
+		<key>deathplace</key>
+		<string></string>
+		<key>served</key>
+		<string>1989-1993</string>
+		<key>terms</key>
+		<string>Served one full term then lost reelection</string>
+		<key>party</key>
+		<string>Republican</string>
+		<key>occupation</key>
+		<string>Pilot (Navy Lieutenant, Junior Grade), businessman (oil), C.I.A. Director, ambassador to China.</string>
+	</dict>
+	<key>42</key>
+	<dict>
+		<key>Name</key>
+		<string>William (Bill) Clinton</string>
+		<key>lived</key>
+		<string>(1946- )</string>
+		<key>birthplace</key>
+		<string>Hope, Arkansas</string>
+		<key>deathplace</key>
+		<string></string>
+		<key>served</key>
+		<string>1993-2001</string>
+		<key>terms</key>
+		<string>Served two full terms</string>
+		<key>party</key>
+		<string>Democrat</string>
+		<key>occupation</key>
+		<string>Lawyer, law lecturer/teacher</string>
+	</dict>
+	<key>43</key>
+	<dict>
+		<key>Name</key>
+		<string>George W. Bush</string>
+		<key>lived</key>
+		<string>(1946- )</string>
+		<key>birthplace</key>
+		<string>New Haven, Connecticut</string>
+		<key>deathplace</key>
+		<string></string>
+		<key>served</key>
+		<string>2001-2009</string>
+		<key>terms</key>
+		<string>Served two full terms</string>
+		<key>party</key>
+		<string>Republican</string>
+		<key>occupation</key>
+		<string>Pilot (Texas Air National Guard), businessman (oil, baseball)</string>
+	</dict>
+	<key>44</key>
+	<dict>
+		<key>Name</key>
+		<string>Barack Obama</string>
+		<key>lived</key>
+		<string>(1961- )</string>
+		<key>birthplace</key>
+		<string>Honolulu, Hawaii</string>
+		<key>deathplace</key>
+		<string></string>
+		<key>served</key>
+		<string>2009-2017</string>
+		<key>terms</key>
+		<string>Served two full terms</string>
+		<key>party</key>
+		<string>Democrat</string>
+		<key>occupation</key>
+		<string>Community organizer, lawyer, professor</string>
+	</dict>
+	<key>45</key>
+	<dict>
+		<key>Name</key>
+		<string>Donald Trump</string>
+		<key>lived</key>
+		<string>(1946- )</string>
+		<key>birthplace</key>
+		<string>New York City, New York</string>
+		<key>deathplace</key>
+		<string></string>
+		<key>served</key>
+		<string>2017-</string>
+		<key>terms</key>
+		<string>Incumbent serving his first term of office as of November 2017</string>
+		<key>party</key>
+		<string>Republican</string>
+		<key>occupation</key>
+		<string>Businessman, real estate developer, reality television host, television producer, investor, actor</string>
+	</dict>
+</dict>
+</plist>

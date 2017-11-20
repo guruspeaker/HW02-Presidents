@@ -7,25 +7,38 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3A3719CD1FC201150052A3A5 /* president.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A3719CC1FC201150052A3A5 /* president.m */; };
+		3A3719CF1FC21E510052A3A5 /* Files in Resources */ = {isa = PBXBuildFile; fileRef = 3A3719CE1FC21E510052A3A5 /* Files */; };
 		3A58015B1FC1BA5D007DE4F4 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A58015A1FC1BA5D007DE4F4 /* AppDelegate.m */; };
-		3A58015E1FC1BA5D007DE4F4 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A58015D1FC1BA5D007DE4F4 /* ViewController.m */; };
 		3A5801611FC1BA5D007DE4F4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A58015F1FC1BA5D007DE4F4 /* Main.storyboard */; };
 		3A5801631FC1BA5D007DE4F4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3A5801621FC1BA5D007DE4F4 /* Assets.xcassets */; };
 		3A5801661FC1BA5D007DE4F4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A5801641FC1BA5D007DE4F4 /* LaunchScreen.storyboard */; };
 		3A5801691FC1BA5D007DE4F4 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A5801681FC1BA5D007DE4F4 /* main.m */; };
+		3A5801711FC1BB78007DE4F4 /* tvcPresidents.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A5801701FC1BB78007DE4F4 /* tvcPresidents.m */; };
+		3A5801781FC1BBED007DE4F4 /* tvcCellPresidents.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A5801771FC1BBED007DE4F4 /* tvcCellPresidents.m */; };
+		3A58017B1FC1BC05007DE4F4 /* vcPresidentDetails.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A58017A1FC1BC05007DE4F4 /* vcPresidentDetails.m */; };
+		3A58017D1FC1BC3B007DE4F4 /* Presidents.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3A58017C1FC1BC3B007DE4F4 /* Presidents.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3A3719CB1FC201150052A3A5 /* president.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = president.h; sourceTree = "<group>"; };
+		3A3719CC1FC201150052A3A5 /* president.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = president.m; sourceTree = "<group>"; };
+		3A3719CE1FC21E510052A3A5 /* Files */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Files; sourceTree = "<group>"; };
 		3A5801561FC1BA5D007DE4F4 /* HW02-Presidents.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "HW02-Presidents.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3A5801591FC1BA5D007DE4F4 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		3A58015A1FC1BA5D007DE4F4 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		3A58015C1FC1BA5D007DE4F4 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		3A58015D1FC1BA5D007DE4F4 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		3A5801601FC1BA5D007DE4F4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		3A5801621FC1BA5D007DE4F4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3A5801651FC1BA5D007DE4F4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3A5801671FC1BA5D007DE4F4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3A5801681FC1BA5D007DE4F4 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		3A58016F1FC1BB78007DE4F4 /* tvcPresidents.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = tvcPresidents.h; sourceTree = "<group>"; };
+		3A5801701FC1BB78007DE4F4 /* tvcPresidents.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = tvcPresidents.m; sourceTree = "<group>"; };
+		3A5801761FC1BBED007DE4F4 /* tvcCellPresidents.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = tvcCellPresidents.h; sourceTree = "<group>"; };
+		3A5801771FC1BBED007DE4F4 /* tvcCellPresidents.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = tvcCellPresidents.m; sourceTree = "<group>"; };
+		3A5801791FC1BC05007DE4F4 /* vcPresidentDetails.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = vcPresidentDetails.h; sourceTree = "<group>"; };
+		3A58017A1FC1BC05007DE4F4 /* vcPresidentDetails.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = vcPresidentDetails.m; sourceTree = "<group>"; };
+		3A58017C1FC1BC3B007DE4F4 /* Presidents.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Presidents.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,8 +55,10 @@
 		3A58014D1FC1BA5D007DE4F4 = {
 			isa = PBXGroup;
 			children = (
+				3A5801721FC1BB7F007DE4F4 /* CodeFiles */,
 				3A5801581FC1BA5D007DE4F4 /* HW02-Presidents */,
 				3A5801571FC1BA5D007DE4F4 /* Products */,
+				3A3719CE1FC21E510052A3A5 /* Files */,
 			);
 			sourceTree = "<group>";
 		};
@@ -60,8 +75,6 @@
 			children = (
 				3A5801591FC1BA5D007DE4F4 /* AppDelegate.h */,
 				3A58015A1FC1BA5D007DE4F4 /* AppDelegate.m */,
-				3A58015C1FC1BA5D007DE4F4 /* ViewController.h */,
-				3A58015D1FC1BA5D007DE4F4 /* ViewController.m */,
 				3A58015F1FC1BA5D007DE4F4 /* Main.storyboard */,
 				3A5801621FC1BA5D007DE4F4 /* Assets.xcassets */,
 				3A5801641FC1BA5D007DE4F4 /* LaunchScreen.storyboard */,
@@ -69,6 +82,22 @@
 				3A5801681FC1BA5D007DE4F4 /* main.m */,
 			);
 			path = "HW02-Presidents";
+			sourceTree = "<group>";
+		};
+		3A5801721FC1BB7F007DE4F4 /* CodeFiles */ = {
+			isa = PBXGroup;
+			children = (
+				3A58016F1FC1BB78007DE4F4 /* tvcPresidents.h */,
+				3A5801701FC1BB78007DE4F4 /* tvcPresidents.m */,
+				3A5801761FC1BBED007DE4F4 /* tvcCellPresidents.h */,
+				3A5801771FC1BBED007DE4F4 /* tvcCellPresidents.m */,
+				3A5801791FC1BC05007DE4F4 /* vcPresidentDetails.h */,
+				3A58017A1FC1BC05007DE4F4 /* vcPresidentDetails.m */,
+				3A58017C1FC1BC3B007DE4F4 /* Presidents.plist */,
+				3A3719CB1FC201150052A3A5 /* president.h */,
+				3A3719CC1FC201150052A3A5 /* president.m */,
+			);
+			path = CodeFiles;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -131,7 +160,9 @@
 			files = (
 				3A5801661FC1BA5D007DE4F4 /* LaunchScreen.storyboard in Resources */,
 				3A5801631FC1BA5D007DE4F4 /* Assets.xcassets in Resources */,
+				3A3719CF1FC21E510052A3A5 /* Files in Resources */,
 				3A5801611FC1BA5D007DE4F4 /* Main.storyboard in Resources */,
+				3A58017D1FC1BC3B007DE4F4 /* Presidents.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -142,9 +173,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3A58015E1FC1BA5D007DE4F4 /* ViewController.m in Sources */,
+				3A5801781FC1BBED007DE4F4 /* tvcCellPresidents.m in Sources */,
 				3A5801691FC1BA5D007DE4F4 /* main.m in Sources */,
 				3A58015B1FC1BA5D007DE4F4 /* AppDelegate.m in Sources */,
+				3A58017B1FC1BC05007DE4F4 /* vcPresidentDetails.m in Sources */,
+				3A3719CD1FC201150052A3A5 /* president.m in Sources */,
+				3A5801711FC1BB78007DE4F4 /* tvcPresidents.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
